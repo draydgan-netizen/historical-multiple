@@ -1,6 +1,7 @@
 **Historical Multiple App**
 
 **Overview**
+
 This project began as a personal initiative to simplify and speed up how my colleagues and I analyzed company price data. Many of us wanted to invest but didn’t have the time or tools to compare prices, read multiple company reports, or handle a flood of financial metrics.
 To solve that, I built this Python application — a lightweight, user-friendly tool that helps users quickly understand how a company’s current price compares to its historical performance.
 
@@ -8,6 +9,7 @@ The app provides contextual insights on price behavior over time: it shows how m
 It has already been used by hundreds of my colleagues, who found it helpful for developing early financial literacy and making more informed decisions.
 
 **What the App Does**
+
 The Historical Multiple App retrieves company price data, computes moving averages, and evaluates how the current market price compares with historical patterns. It then estimates the historical “multiple” (current price divided by its 50-day average) and analyzes what typical future returns followed when the company traded at similar levels.
 
 In simpler terms:
