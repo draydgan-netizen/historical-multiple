@@ -56,22 +56,27 @@ The user interface is interactive and simple, displaying:
 ---
 
 ## **Structure of the Repository**
+
+```
 /
 │
-├── main.py # The complete Python source code
-├── assets/ # Folder containing icon image and other visual assets
-│ └── favicon.jpg
-├── requirements.txt # Dependencies required to run the app
-├── app_en.py # English version of the app (optional)
-└── app_pt.py # Portuguese version (original)
+├── main.py              # The complete Python source code
+├── assets/              # Folder containing icon image and other visual assets
+│   └── favicon.jpg
+├── requirements.txt     # Dependencies required to run the app
+├── app_en.py            # English version of the app (optional)
+└── app_pt.py            # Portuguese version (original)
+```
 
 ---
 
 ## **Running the App**
 
 To run locally:
+```
 pip install -r requirements.txt
 python main.py
+```
 
 
 The design will render directly in your terminal or browser window via Flet’s built-in environment — no heavy setup required.
