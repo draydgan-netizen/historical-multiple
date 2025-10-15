@@ -87,8 +87,10 @@ The design will render directly in your terminal or browser window via Flet’s 
 
 Flet allows you to build native executables or mobile apps effortlessly.  
 To build an application file, use:
+```
 flet build [desired_format]
 flet build apk
+```
 
 If you face dependency issues related to Flutter or Flet, reinstalling the required Flutter files and dependencies typically resolves them.
 
