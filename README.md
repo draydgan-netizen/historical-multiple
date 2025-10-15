@@ -45,6 +45,7 @@ The user interface is interactive and simple, displaying:
 - Suggested thresholds for long-term gains (180- and 360-day horizons)
 
 **Structure of the Repository**
+
 /
 │
 ├── main.py                 # The complete Python source code
