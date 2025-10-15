@@ -2,12 +2,11 @@
 
 ## **Overview**
 
-This project began as a personal initiative to simplify and speed up how my colleagues and I analyzed company price data.  
-Many of us wanted to invest but didn’t have the time or tools to compare prices, read multiple company reports, or handle a flood of financial metrics.  
-To solve that, I built this Python application — a lightweight, user-friendly tool that helps users quickly understand how a company’s current price compares to its historical performance.
+This project began as a personal initiative to make it easier and faster for my colleagues and me to analyze company price data. Many of us were interested in investing but lacked the time or tools to compare prices, review multiple company reports, or interpret large volumes of financial information.
 
-The app provides contextual insights on price behavior over time: it shows how much higher or lower the current price is compared to the company’s historical averages, and suggests potential buy thresholds based on past data performance.  
-It has already been used by hundreds of my colleagues, who found it helpful for developing early financial literacy and making more informed decisions.
+To address that need, I developed a Python application that offers a clear, user-friendly way to understand how a company’s current price compares to its historical performance. The app provides contextual insights into price behavior over time, showing how much higher or lower the current price is relative to historical averages and suggesting potential buy thresholds based on past trends.
+
+It has already been used by hundreds of my colleagues, who have found it helpful for improving their financial literacy, recognizing value patterns, and making more informed investment decisions.
 
 ---
 
